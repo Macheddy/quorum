@@ -2506,7 +2506,7 @@ require=(function e(t,n,r){function s(o,u){if(!n[o]){if(!t[o]){var a=typeof requ
     
     },{"./sha3.js":19,"bignumber.js":"bignumber.js","utf8":85}],21:[function(require,module,exports){
     module.exports={
-        "version": "0.20.1"
+        "version": "0.20.2"
     }
     
     },{}],22:[function(require,module,exports){
